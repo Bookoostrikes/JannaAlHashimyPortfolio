@@ -66,6 +66,13 @@ width: 100%;
 margin: 20px;
 }
 
+.bubbleClass{
+border-color: gray;
+    background-color: white;
+    border-style: solid;
+    border-radius: 27px;
+}
+
 @media screen and (max-width:760px) {
 
     .name, .navbar{
